@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoconutError
+- 👋 Hi, I’m @rainnfx
 - 👀 I’m interested in programming, photoshop, reading.
 - 🌱 I’m currently learning LUAU, JS, DJS.
 - 💞️ I’m looking to collaborate on learning with people about JS.
