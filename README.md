@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rainnfx
+- 👋 Ello, I’m @rainnfx
 - 👀 I’m interested in programming, photoshop, reading.
-- 🌱 I’m currently learning LUAU, JS, DJS.
-- 💞️ I’m looking to collaborate on learning with people about JS.
-- 📫 How to reach me shoot me a DM on discord, rainn.#5194
+- 🌱 I’m currently learning Web Development w/ HTML, CSS, & JS.
+- 💞️ I’m looking to collaborate on learning more and helping people with Web Development.
+- 📫 How to reach me, shoot me a DM on discord, rainn.#5194
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
