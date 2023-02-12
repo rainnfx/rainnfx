@@ -1,4 +1,4 @@
-# 👋 Ello, I’m Matteo aka Rainnfx.
+# 👋 Ello, I’m Matteo.
 I’m interested in web development, ai, and reading.
 Shoot me a DM on discord, rainn.#5194
 
