@@ -13,7 +13,7 @@ I'm a front-end Web Developer! Hope you all enjoy my readme!!
 
 ![Anurag's GitHub stats](https://github-readme-stats-alpha-blue-66.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats-alpha-blue-66.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl)](https://github.com/rainnfx/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-blue-66.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl&layout=compact)](https://github.com/rainnfx/github-readme-stats)
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
