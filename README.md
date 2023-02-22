@@ -2,6 +2,8 @@
 
 readme - work in progress
 
+## ✨ Featured Projects
+
 ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
