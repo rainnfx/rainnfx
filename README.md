@@ -1,6 +1,17 @@
 # 👋 Ello, I’m Matteo.
-I’m interested in web development, ai, and reading.
-Shoot me a DM on discord, rainn.#5194
+
+readme - work in progress
+
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=rainnfx&theme=nightowl&border_radius=7)](https://git.io/streak-stats)
+
+### 💻 Profile Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl)](https://github.com/rainnfx/github-readme-stats)
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
