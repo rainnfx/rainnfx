@@ -6,10 +6,7 @@ readme - work in progress
 
 ## 📊 GitHub Stats
 
-### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=rainnfx&theme=nightowl&border_radius=7)](https://git.io/streak-stats)
-
-### 💻 Profile Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats-alpha-blue-66.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
 
