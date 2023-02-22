@@ -1,4 +1,4 @@
-# 👋 Ello, I’m Matteo.
+# 👋  Ello, I’m Matteo.
 
 I'm a front-end Web Developer! Hope you all enjoy my readme!!
 
@@ -9,9 +9,7 @@ I'm a front-end Web Developer! Hope you all enjoy my readme!!
 
 ## 📊 GitHub Stats
 
-*sometimes they may not be working, I deployed the total readme stats and the top langs one. I did not deploy streaks.*
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rainnfx&theme=nightowl&border_radius=7)](https://git.io/streak-stats)
+*sometimes they may not be working, I deployed the total readme stats and the top langs one though*
 
 ![Anurag's GitHub stats](https://github-readme-stats-alpha-blue-66.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
 
