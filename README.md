@@ -11,9 +11,9 @@ readme - work in progress
 
 ### 💻 Profile Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats-alpha-blue-66.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl)](https://github.com/rainnfx/github-readme-stats)
+[![Top Langs](https://github-readme-stats-alpha-blue-66.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl)](https://github.com/rainnfx/github-readme-stats)
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
