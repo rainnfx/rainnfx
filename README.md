@@ -1,6 +1,12 @@
 # 👋  Ello, I’m Matteo.
 
-I'm a front-end Web Developer! Hope you all enjoy my readme!!
+```javascript
+const rainn = {
+  pronouns: "they" | "them",
+  code: [HTML, CSS, JavaScript],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
+}
+```
 
 ## ✨ Featured Projects
 
