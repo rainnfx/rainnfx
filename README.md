@@ -1,10 +1,11 @@
 # 👋  Ello, I’m Matteo.
 
 ```javascript
-const rainn = {
+const matteo = {
   pronouns: "they" | "them",
+  title: "Front-end Web Developer",
+  website: "Coming Soon! (i think)",
   code: [HTML, CSS, JavaScript],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]
 }
 ```
 
