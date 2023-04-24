@@ -12,7 +12,6 @@ const matteo = {
 ## ✨ Featured Projects
 
 [![Readme Card](https://github-readme-stats-alpha-blue-66.vercel.app/api/pin/?username=rainnfx&theme=nightowl&repo=rainnfx.me)](https://github.com/rainnfx/rainnfx.me)
-[![Readme Card](https://github-readme-stats-alpha-blue-66.vercel.app/api/pin/?username=rainnfx&theme=nightowl&repo=PLP-Site)](https://github.com/rainnfx/plp-site)
 
 ## 📊 GitHub Stats
 
