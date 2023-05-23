@@ -17,8 +17,8 @@ const matteo = {
 
 *sometimes they may not be working, or they might take a bit to load*
 
-![Anurag's GitHub stats](https://github-readme-stats-alpha-blue-66.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats-alpha-blue-66.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl&layout=compact)](https://github.com/rainnfx/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-rainnfx.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats-rainnfx.vercel.app/api/top-langs/?username=rainnfx&theme=nightowl&layout=compact)](https://github.com/rainnfx/github-readme-stats)
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
