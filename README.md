@@ -2,10 +2,10 @@
 
 ```javascript
 const matteo = {
-  pronouns: "they" | "them",
+  pronouns: "human" | "idk",
   title: "Front-end Web Developer",
   website: "Coming Soon! (i think)",
-  code: [HTML, CSS, JavaScript],
+  code: [HTML, CSS, JavaScript, LUA],
 }
 ```
 
