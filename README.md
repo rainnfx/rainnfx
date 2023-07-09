@@ -6,7 +6,7 @@ const matteo = {
   title: "Front-end Web Developer",
   website: "Coming Soon! (i think)",
   code: [HTML, CSS, JavaScript, LUA],
-  frameworks: [React, Tailwind CSS, NextJS]
+  frameworks: [React, Tailwind, NextJS]
 }
 ```
 
