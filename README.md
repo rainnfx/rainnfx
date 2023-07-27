@@ -3,7 +3,7 @@
 ```javascript
 const matteo = {
   pronouns: "human" | "idk",
-  title: "Front-end Web Developer",
+  title: "Software Developer",
   website: "Coming Soon! (i think)",
   code: [HTML, CSS, JavaScript, LUA],
   frameworks: [React, Tailwind, NextJS]
