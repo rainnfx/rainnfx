@@ -2,10 +2,9 @@
 
 ```javascript
 const matteo = {
-  pronouns: "human" | "idk",
   title: "Software Developer",
   website: "Coming Soon! (i think)",
-  code: [HTML, CSS, JavaScript, LUA],
+  code: [HTML, CSS, JavaScript, TypeScript, LUA],
   frameworks: [React, Tailwind, NextJS]
 }
 ```
