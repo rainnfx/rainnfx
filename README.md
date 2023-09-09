@@ -18,7 +18,6 @@ const matteo = {
 *sometimes they may not be working, or they might take a bit to load considering I am hosting them myself on Vercel*
 
 ![Matteo's GitHub stats](https://rainnfx-github-readme-stats-sigma-five.vercel.app/api?username=rainnfx&show_icons=true&theme=nightowl)
-[![Top Langs]((https://rainnfx-github-readme-stats-sigma-five.vercel.app)/api/top-langs/?username=rainnfx&theme=nightowl&layout=compact)](https://github.com/rainnfx/github-readme-stats)
 
 <!---
 rainnfx/rainnfx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
