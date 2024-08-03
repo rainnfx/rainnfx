@@ -1,5 +1,5 @@
 # 👋  Ello, I’m Matteo.
-#### Founder of [Crxfters](https://crxfters.dev).
+#### I just mess around with code and sometimes it works.
 
 ```javascript
 const matteo = {
