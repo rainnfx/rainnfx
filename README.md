@@ -3,7 +3,7 @@
 
 ```javascript
 const matteo = {
-  title: "idk",
+  title: "software developer (maybe)",
   website: "Coming Soon! (i think)",
   code: [HTML, CSS, JavaScript, TypeScript, LUA, C],
   technologies: [React, Tailwind, NextJS, AuthJS, Prisma]
