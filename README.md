@@ -1,4 +1,4 @@
-# 👋  Ello, I’m Matteo.
+# 👋  Hello, I’m Matteo.
 #### I just mess around with code and sometimes it works.
 
 ```javascript
